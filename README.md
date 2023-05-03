@@ -1,5 +1,5 @@
 # Hi, I'm Appiah Kumah Miracle! 👋
-![miracle44](https://user-images.githubusercontent.com/88523317/235825756-a6d253f3-9848-4822-b79c-7479a484a57b.jpg)
+<img src ="![miracle44](https://user-images.githubusercontent.com/88523317/235825756-a6d253f3-9848-4822-b79c-7479a484a57b.jpg)">
 
 
 ## 🚀 About Me
